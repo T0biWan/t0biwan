@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 
 ```js
 const tobi = {
-    "code": ["JavaScript", "Python", "HTML", "Java", "LaTeX"],
-    "tools": ["Vue", "Vuex", "Nuxt", "Node", "Express", "Flask", "Django", "Jest", "Docker", "Kubernetes", "PyTorch", "Adobe", "Git", "Firebase", "Alpine.js", "Shopify", "REST", "GraphQL", "SQL/NoSQL", "Tailwindcss"],
-    "engineering": ["Software Engineering", "Requirements Engineering", "Usability Engineering", "UX/UI"],
+    "code": ["JavaScript", "Python", "Java", "LaTeX"],
+    "tools": ["Vue", "Vuex", "Nuxt", "Node", "Express", "Flask", "Django",
+        "Jest", "Docker", "Kubernetes", "PyTorch", "Adobe", "Git",
+        "Firebase", "Alpine.js", "Shopify", "REST", "GraphQL", "SQL/NoSQL",
+        "Tailwindcss"],
+    "engineering": ["Software Engineering", "Requirements Engineering",
+        "Usability Engineering", "UX/UI"],
     "challenge": "Reaching 8 Dan on codewars in JS and Python."
 }
 ```
